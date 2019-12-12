@@ -17,6 +17,11 @@
 
 ---
 
+[Project 4 Title](/sample_page)
+<p>I'm writing some text as a place holder blah blah blah.</p>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
