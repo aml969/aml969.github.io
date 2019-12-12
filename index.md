@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Author's Statement 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -22,7 +22,7 @@
 
 ---
 
-### Category Name 2
+### The Dinner
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -32,8 +32,7 @@
 
 ---
 
-
-
+### Scenes from Coal Crick Road, 400 Block
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
