@@ -1,7 +1,7 @@
-title: CRWR 300 # your name (or website title) here
+title:  # your name (or website title) here
 logo: "/images/tmp.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Web portfolio for Creative Writing 300 Fall 2019
+  
   <br><br>
   
 theme: jekyll-theme-minimal
