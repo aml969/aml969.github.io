@@ -1,17 +1,17 @@
 
 ### A Classic Dinner
 
-[Scrollytelling](https://aml969.github.io/hello-scrollytelling/)  
+[Scrollytelling](https://apeculiarreality.github.io/hello-scrollytelling/)  
 
-[Author's statement](https://aml969.github.io/sample_page)  
+[Author's statement](https://apeculiarreality.github.io/sample_page)  
 
 ---
 
 ### It Was All Just Real Life
 
-[Scrollytelling](https://aml969.github.io/hello-scrollytelling/)  
+[Scrollytelling](https://apeculiarreality.github.io/hello-scrollytelling/)  
 
-[Author's statement](https://aml969.github.io/sample_page)  
+[Author's statement](https://apeculiarreality.github.io/sample_page)  
 
 ---
 
