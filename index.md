@@ -1,4 +1,4 @@
-## Portfolio
+## A Peculiar Reality
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-### The Dinner
+### A Classic Dinner
 
 [Scrollytelling](https://aml969.github.io/hello-scrollytelling/)  
 
@@ -16,7 +16,7 @@
 
 ---
 
-### Scenes from Coal Crick Road, 400 Block
+### It Was All Just Real Life
 
 [Scrollytelling](https://aml969.github.io/hello-scrollytelling/)  
 
