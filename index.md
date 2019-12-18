@@ -1,10 +1,4 @@
 
-### About this project 
-
-<p>I'm writing some text as a place holder blah blah blah.</p>
-
----
-
 ### A Classic Dinner
 
 [Scrollytelling](https://aml969.github.io/hello-scrollytelling/)  
