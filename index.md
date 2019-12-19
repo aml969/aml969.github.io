@@ -3,7 +3,7 @@
 
 [Scrollytelling](https://distracted-carson-2d203c.netlify.com/)  
 
-[Author's statement](https://apeculiarreality.github.io/sample_page)  
+[Author's statement](https://distracted-carson-2d203c.netlify.com/authors-note.html)  
 
 ---
 
