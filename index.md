@@ -1,9 +1,9 @@
 
 ### A Classic Dinner
 
-[Scrollytelling](https://distracted-carson-2d203c.netlify.com/)  
+[Book](https://distracted-carson-2d203c.netlify.com/)  
 
-[Author's statement](https://distracted-carson-2d203c.netlify.com/authors-note.html)  
+[Author's note](https://distracted-carson-2d203c.netlify.com/authors-note.html)  
 
 ---
 
@@ -11,7 +11,7 @@
 
 [Scrollytelling](https://apeculiarreality.github.io/hello-scrollytelling/)  
 
-[Author's statement](https://apeculiarreality.github.io/sample_page)  
+[Author's note](https://apeculiarreality.github.io/sample_page)  
 
 ---
 
