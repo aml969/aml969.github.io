@@ -1,4 +1,4 @@
-Please visit the website at https://apeculiarreality.github.io/!
+Please visit the website at https://apeculiarreality.github.io/ for a description of this project!
 
 ___
 
