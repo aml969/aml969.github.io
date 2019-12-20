@@ -19,7 +19,13 @@
 
 ### About this project 
 
-<p>For this portfolio, I wanted to create an engaging experience for the reader. Part of my job includes computer programming and I wanted to see if I could incorporate that into the creative writing process. The result ended up being a fairly barebones website, a minimal e-book, and a dummy scrollytelling site that I ended up scrapping but at least built a working framework for. Creating a portfolio in this way would serve a few main purposes: as I mentioned, I think it creates a more engaging experience for the user; it has room to grow and would be easy to makde edits and/or build onto in the future; it allowed me to learn a new skill that would be somewhat relevant to my work, and it serves as a possible way for someone like me who wouldn’t ordinarily have the opportunity to have their writing published to self-publish at no cost. The result is two short stories that mix realism and absurdity to create... a peculiar reality.</p>
+<p>For this portfolio, which was created as a final submission for a creative writing course, I hoped to design a more engaging experience for the reader than simply reading a document. Part of my job includes computer programming and I wanted to see if I could incorporate some element of that into the creative writing process. The result ended up being a fairly barebones website, a minimal e-book, and a demo scrollytelling site that I ended up scrapping but at the very least have a working framework for. Creating a portfolio in this way would serve a few main purposes: as I mentioned, I think it creates a more engaging experience for the user; it has room to grow and would be easy to makde edits and/or build onto in the future; it allowed me to learn a new skill that would be somewhat relevant to my work, and it serves as a possible way for someone like me who wouldn’t ordinarily have the opportunity to have their writing published to self-publish at no cost. The result is two short stories that mix realism and absurdity to create... a peculiar reality.</p>
+
+---
+
+### About the author
+
+A semi-anonymous data scientist working in computational genomics and biomedical informatics research, she has decided to venture into the world of creative writing. She has also taken exactly one introductory sketch comedy class and now fancies herself a comedian, much to the annoyance of everyone else. You can follow her on [Science Twitter](https://twitter.com/AnastasiaMLucas) or [Irreverent Twitter](https://twitter.com/sadinspace) or check out her personal [GitHub Profile](https://github.com/anastasia-lucas) for more projects.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
