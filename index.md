@@ -1,15 +1,17 @@
 
-### A Classic Dinner
+### A Conditional Dinner
 
-[Book](https://ecstatic-almeida-3de298.netlify.com)  
+[Web Book](https://ecstatic-almeida-3de298.netlify.com)  
 
 [Author's note](https://ecstatic-almeida-3de298.netlify.com/authors-note.html)  
+
+[ePUB Download Link](https://github.com/apeculiarreality/AConditionalDinner/blob/master/docs/AConditionalDinner.epub)
 
 ---
 
 ### It Was All Just Real Life
 
-[PDF](/pdf/JustRealLife.pdf)  
+[Full Text PDF](/pdf/JustRealLife.pdf)  
 
 [Author's note](/JRLAN)  
 
