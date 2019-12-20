@@ -11,7 +11,7 @@
 
 [PDF](/pdf/JustRealLife.pdf)  
 
-[Author's note](https://apeculiarreality.github.io/JRLAN.md)  
+[Author's note](/JRLAN)  
 
 ---
 
