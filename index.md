@@ -1,9 +1,9 @@
 
 ### A Classic Dinner
 
-[Book](https://distracted-carson-2d203c.netlify.com/)  
+[Book](https://ecstatic-almeida-3de298.netlify.com)  
 
-[Author's note](https://distracted-carson-2d203c.netlify.com/authors-note.html)  
+[Author's note](https://ecstatic-almeida-3de298.netlify.com/authors-note.html)  
 
 ---
 
