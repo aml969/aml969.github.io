@@ -9,7 +9,7 @@
 
 ### It Was All Just Real Life
 
-[Scrollytelling](https://apeculiarreality.github.io/hello-scrollytelling/)  
+[PDF](/pdf/JustRealLife.pdf)  
 
 [Author's note](https://apeculiarreality.github.io/sample_page)  
 
