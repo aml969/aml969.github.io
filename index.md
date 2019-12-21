@@ -1,11 +1,11 @@
 
 ### A Conditional Dinner
 
-[Web Book](https://ecstatic-almeida-3de298.netlify.com)  
+[Web Book](https://competent-booth-17d5e0.netlify.com/)  
 
-[Author's note](https://ecstatic-almeida-3de298.netlify.com/authors-note.html)  
+[Author's note](https://competent-booth-17d5e0.netlify.com/authors-note.html)  
 
-[ePUB Download Link](https://github.com/apeculiarreality/AConditionalDinner/blob/master/docs/AConditionalDinner.epub)
+[ePUB Download Link](https://github.com/apeculiarreality/AConditionalDinner-Book/blob/master/docs/AConditionalDinner.epub)
 
 ---
 
