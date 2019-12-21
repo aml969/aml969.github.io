@@ -9,7 +9,7 @@
 
 ---
 
-### It Was All Just Real Life
+### Just Real Life
 
 [Full Text PDF](/pdf/JustRealLife.pdf)  
 
