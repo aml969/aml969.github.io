@@ -5,7 +5,7 @@
 
 [Author's note](https://competent-booth-17d5e0.netlify.com/authors-note.html)  
 
-[ePUB Download Link](https://github.com/apeculiarreality/AConditionalDinner-Book/blob/master/docs/AConditionalDinner.epub) (Hit the 'Download' button.)
+[ePUB Download Link](https://github.com/apeculiarreality/AConditionalDinner-Book/blob/master/docs/AConditionalDinner.epub) (Click the 'Download' button)
 
 ---
 
