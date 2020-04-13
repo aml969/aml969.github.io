@@ -15,6 +15,8 @@
 
 [Explore other perspectives](/AUG162001)
 
+---
+
 ### Just Real Life
 
 [Full Text PDF](/pdf/JustRealLife.pdf)  
