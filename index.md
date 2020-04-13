@@ -33,7 +33,7 @@
 
 ### About the author
 
-A semi-anonymous data scientist working in computational genomics and biomedical informatics research, she has decided to venture into the world of creative writing. She has also taken exactly one introductory sketch comedy class and now fancies herself a comedian, much to the annoyance of everyone else. You can follow her on [Science Twitter](https://twitter.com/AnastasiaMLucas) or [Irreverent Twitter](https://twitter.com/sadinspace) or check out her personal [GitHub Profile](https://github.com/anastasia-lucas) for more projects.
+A semi-anonymous data scientist working in computational genomics and biomedical informatics research, she has decided to utilize her employee tuition benefit by venturing into the world of creative writing. You can follow her on [Science Twitter](https://twitter.com/AnastasiaMLucas) or [Irreverent Twitter](https://twitter.com/sadinspace) or check out her personal [GitHub Profile](https://github.com/anastasia-lucas) for more projects.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
