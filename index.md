@@ -11,7 +11,7 @@
 
 ### August 16th, 2001
 
-[Website](https://apeculiarreality.github.io/test)
+[Website](https://apeculiarreality.github.io/August16th2001)
 
 [Explore other perspectives](/AUG162001)
 
