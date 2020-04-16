@@ -11,7 +11,7 @@ airplane and fly through a cloud so it would look like she was floating in a puf
 imagined people looking out the windows smiling down at her having fun playing in her yard, thinking she would 
 look like the size of a little ant to them, unaware they couldn’t see her any better than they could a speck of 
 dust in a mound of dirt. Her hands clasped behind her mussed ponytail and she closed her eyes, wishing she could 
-stay there forever. Thump. The familiar sting of a playground ball hit her legs. She sprung up and hurled it as 
+stay there forever. *Thump.* The familiar sting of a playground ball hit her legs. She sprung up and hurled it as 
 hard as she could towards the swing her brother was standing on, trying to keep his balance. 
 
 “Alder! Quit it, you big dummy!”
