@@ -1,6 +1,6 @@
 ## Scenes from Coal Crick Road, 400 Block
  
-*Summer*
+***Summer***
 
  Rigby squinted through the streaks of sunlight streaming down from the clouds. They warmed her tiny 
 scraped knees as she laid against the damp earth not quite yet dry from the previous night’s thunderstorm. 
@@ -40,7 +40,7 @@ didn’t see him, but then she caught a bright flash of a red t-shirt between th
 “Okay, lemme get mine.” Remy tossed his stick aside and poked his sandy hair out from behind a tree, unsteadily climbing 
 over the rocks and brush in the direction of his garage. A muffled voice yelled after him to be back in twenty minutes.
  
-*Autumn* 
+***Autumn*** 
 
 Eddie stretched his back and swung around his stool to warm his hands on the space heater beneath his workbench. The older 
 he got, the more he could feel his hands growing stiff in the cold weather. It made him wonder how many good years of manual 
@@ -108,7 +108,7 @@ Brake pads & replacement
 Air filter & replacement
 ```
  
-*Winter*
+***Winter***
 
 Evelyn Surcovick sat perched in front of her big bay window, her thinning frame engulfed by the tattered floral bergère. 
 She frowned at the gleeful shouts of the neighbor children coming up and down the hill, the sounds of their plastic sleds 
@@ -156,7 +156,7 @@ much her smile resembled her granddaughter’s.
 Just as she started to pull on the drapes, they paused flinging the shovefuls of snow to look back and wave. She picked up 
 her bony, wrinkled hand and waved back, a polite smile poking through her lips. Maybe she could leave them open a while.
 
-*Spring*
+***Spring***
  
 Remy jumped off the bus, tilting his chin upwards and craning his neck up the road to see if he could spot his dad. He usually 
 came to the bus stop to walk Remy home, but was nowhere to be seen. At almost-nine-years-old he thought he was too old for his 
